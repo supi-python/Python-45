@@ -1,0 +1,10 @@
+git status - to check the status
+git add . - to add the change from local to staging area
+git commit -m 'msg for other dev'- to let knwo the other pesron whta we do the chnages
+git push  -to push the code from staging area to github
+gti status
+git branch branch-name - for creating new branch
+git checkout branch-name - swicth one barnch to another branch
+gti pull  - to pull the chnages from github to local
+
+
